@@ -3,17 +3,5 @@
   "trailingSlash": false,
   "github": {
     "silent": true
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://reiner.design",
-      "permanent": false
-    },
-    {
-      "source": "/:path*",
-      "destination": "https://reiner.design",
-      "permanent": false
-    }
-  ]
+  }
 }
